@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926536436491",
+    "firebase_url": "https://babymon-1ac0c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "babymon-1ac0c",
+    "storage_bucket": "babymon-1ac0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926536436491:android:9b85a9a60e76d206ecb00e",
+        "android_client_info": {
+          "package_name": "com.example.babymon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926536436491-q286r53u3sfoksgtdu4o96l1i02cetsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDIWBKabjxKpM8WIOjL1tvLUFtwXXk8zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926536436491-7ed305j5r1vql6vgm01eec22vois9o8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
